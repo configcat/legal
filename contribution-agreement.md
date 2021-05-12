@@ -1,3 +1,5 @@
+# ConfigCat Open-Source Contribution Agreement
+
 By submitting a pull request or otherwise seeking to include your change in the repository you fully,
 irrevocably and unconditionally waive all your intellectual property rights and any other rights
 and claims concerning ConfigCat SDK or any part of it.
